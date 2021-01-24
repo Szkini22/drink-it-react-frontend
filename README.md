@@ -19,3 +19,6 @@ This is the front-end part of a full-stack project which involves a bunch of coc
  - Netflix-like search results
  - Incremental search (fetched data letter-by-letter)
  - You can put coctails to favourites
+
+### Try it with this backend
+https://github.com/Szkini22/drink-it-laravel-backend
