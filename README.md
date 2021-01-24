@@ -1,6 +1,6 @@
 #   DRINK IT with React!
 
-This is the front-end part of a full-stack project which involves a bunch of coctail reciept straigh from our api.
+This is the front-end part of a full-stack project which involves a bunch of coctail reciept straigh from our back-end.
 
 ## What we used
 
